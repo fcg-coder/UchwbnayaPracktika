@@ -1,0 +1,39 @@
+﻿  U_P.cpp
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(32,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(35,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(35,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(36,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(36,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(36,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(37,9): error C2065: cdq: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(38,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(38,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(38,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(39,9): error C2065: mul: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(39,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(39,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(40,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(40,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(40,13): error C2065: edx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(40,18): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(44,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(44,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(45,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(45,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(45,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(46,9): error C2065: cdq: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(47,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(47,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(47,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(48,9): error C2065: mul: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(48,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(48,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(52,9): error C2065: sub: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(52,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(52,13): error C2065: edx: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(52,18): error C2065: eax: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(53,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(53,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "det"
+C:\Users\Станислав\OneDrive\Рабочий стол\UchwbnayaPracktika\U_P\U_P\U_P.cpp(53,18): error C2065: edx: необъявленный идентификатор

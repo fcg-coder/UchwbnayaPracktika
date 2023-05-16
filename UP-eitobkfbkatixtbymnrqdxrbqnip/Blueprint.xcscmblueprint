@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "05B78E3B-C6F1-4CE3-A1BA-CE8F8C81733A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StanislavAgeychik\/lshfn.store.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C"
+    }
+  ]
+}
